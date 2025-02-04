@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ArsinoeVR/static/css/main.6421c545.css",
-    "main.js": "/ArsinoeVR/static/js/main.059ad5ac.js",
+    "main.js": "/ArsinoeVR/static/js/main.b2e80b13.js",
     "reactPlayerYouTube.js": "/ArsinoeVR/static/js/reactPlayerYouTube.cd08b5a6.chunk.js",
     "reactPlayerSoundCloud.js": "/ArsinoeVR/static/js/reactPlayerSoundCloud.83cc55ef.chunk.js",
     "reactPlayerVimeo.js": "/ArsinoeVR/static/js/reactPlayerVimeo.ed4b3a09.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/logoArsinoeNoText.png": "/ArsinoeVR/static/media/logoArsinoeNoText.af9306866f9b838ad7af.png",
     "index.html": "/ArsinoeVR/index.html",
     "main.6421c545.css.map": "/ArsinoeVR/static/css/main.6421c545.css.map",
-    "main.059ad5ac.js.map": "/ArsinoeVR/static/js/main.059ad5ac.js.map",
+    "main.b2e80b13.js.map": "/ArsinoeVR/static/js/main.b2e80b13.js.map",
     "reactPlayerYouTube.cd08b5a6.chunk.js.map": "/ArsinoeVR/static/js/reactPlayerYouTube.cd08b5a6.chunk.js.map",
     "reactPlayerSoundCloud.83cc55ef.chunk.js.map": "/ArsinoeVR/static/js/reactPlayerSoundCloud.83cc55ef.chunk.js.map",
     "reactPlayerVimeo.ed4b3a09.chunk.js.map": "/ArsinoeVR/static/js/reactPlayerVimeo.ed4b3a09.chunk.js.map",
@@ -52,6 +52,6 @@
   },
   "entrypoints": [
     "static/css/main.6421c545.css",
-    "static/js/main.059ad5ac.js"
+    "static/js/main.b2e80b13.js"
   ]
 }
